@@ -2,7 +2,7 @@
   <img src="url-shortner-frontend/public/images/img2.png" alt="SnapLink Logo" width="200"/>
 </p>
 
-<h1 align="center">🔗 SnapLink - Smart URL Shortener</h1>
+<h1 align="center">🔗 Shortly - Smart URL Shortener</h1>
 
 <p align="center">
   <strong>A powerful, feature-rich URL shortening service built with Spring Boot & React</strong>
@@ -29,7 +29,7 @@
 
 ## ✨ Overview
 
-**SnapLink** is a modern, full-stack URL shortening application that transforms long URLs into compact, shareable links. Built with enterprise-grade technologies, it offers advanced features like one-time URLs, expiring links, device tracking, and comprehensive analytics.
+**Shortly** is a modern, full-stack URL shortening application that transforms long URLs into compact, shareable links. Built with enterprise-grade technologies, it offers advanced features like one-time URLs, expiring links, device tracking, and comprehensive analytics.
 
 Perfect for marketers, developers, and businesses who need reliable link management with detailed insights.
 
