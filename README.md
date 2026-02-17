@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="url-shortner-frontend/public/images/img2.png" alt="SnapLink Logo" width="200"/>
+  <img src="[url-shortner-frontend/public/images/img2.png](https://raw.githubusercontent.com/nitesh-narwal/shortly-client/refs/heads/main/public/favicon.ico)" alt="Shortly Logo" width="200"/>
 </p>
 
 <h1 align="center">🔗 Shortly - Smart URL Shortener</h1>
